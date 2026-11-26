@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Секреты и личные данные
+.env
+*.db
+
+# Результаты запусков
+site-parser/output/
+excel-report/data/
+excel-report/report.xlsx
+
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
